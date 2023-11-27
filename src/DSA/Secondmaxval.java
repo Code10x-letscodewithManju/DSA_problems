@@ -1,5 +1,5 @@
 package DSA;
-//find the second largest ele in the array
+//find the second largest ele in the array?
 class arry2 {
     public static int firstmax(int[] m) {
         int max =Integer.MIN_VALUE ;
