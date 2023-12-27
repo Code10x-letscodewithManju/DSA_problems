@@ -1,4 +1,4 @@
-package DSA;
+package DSA.ArrayDataStruct;
 
 
 import java.util.Scanner;

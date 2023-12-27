@@ -1,4 +1,4 @@
-package DSA;
+package DSA.ArrayDataStruct;
 //find the second largest ele in the array
 class arrypro5{
     public static int firstmin(int[] m) {

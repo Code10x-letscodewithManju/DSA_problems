@@ -1,4 +1,4 @@
-package DSA;
+package DSA.ArrayDataStruct;
 //Find the unique ele which don't repeat twice in the array
 class arraydatast {
     public static int Maxmin(int[] m ){
