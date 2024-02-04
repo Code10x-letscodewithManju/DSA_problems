@@ -374,22 +374,7 @@ public class ArrayOperations {
     public static void main(String[] args) {
         out.println("\n\t\t\tWELCOME TO ARRAY ATLAS - AN ULTIMATE ARRAY EXPLORER");
         out.println("\nDSA BASED JAVA PROJECT WHICH IS CAPABLE OF PERFORMING THE FOLLOWING OPERATIONS\n");
-        out.println("(1)INSERTION");
-        out.println("(2)DELETION");
-        out.println("(3)LINEAR SEARCH");
-        out.println("(4)BINARY SEARCH");
-        out.println("(5)BUBBLE SORT");
-        out.println("(6)SELECTION SORT");
-        out.println("(7)INSERTION SORT");
-        out.println("(8)QUICK SORT");
-        out.println("(9)MERGE SORT");
-        out.println("(10)MAXIMUM ELEMENT");
-        out.println("(11)MINIMUM ELEMENT");
-        out.println("(12)TARGET SUM");
-        out.println("(13)UNIQUE ELEMENT");
-        out.println("(14)REVERSE ARRAY");
-        out.println("(15)ROTATE ARRAY BY K TIMES");
-        out.println("(16)TRIPLET SUM");
+        out.println("\n(1)INSERTION \n(2)DELETION \n(3)LINEAR SEARCH \n(4)BINARY SEARCH \n(5)BUBBLE SORT \n(6)SELECTION SORT \n(7)INSERTION SORT \n(8)QUICK SORT \n(9)MERGE SORT \n(10)MAXIMUM ELEMENT \n(11)MINIMUM ELEMENT \n(12)TARGET SUM \n(13)UNIQUE ELEMENT \n(14)REVERSE ARRAY \n(15)ROTATE ARRAY BY K TIMES\n(16)TRIPLET SUM\n");
         out.println("\nENTER YOUR CHOICE FROM ABOVE LIST OF OPERATIONS ->");
         Scanner sc = new Scanner(System.in);
         int choice = sc.nextInt();
